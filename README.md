@@ -4,7 +4,7 @@ The implementation compares the performance of **Neural Networks** and **Gradien
 
 ## Algorithms and Datasets
 The project focuses on testing 12 algorithms across 76 datasets from OpenML-CC18 suite and the OpenML Benchmarking Suite. 
-The algoruthms include:
+The algorithms include:
 - Two GBDTmodels: XGBoost and LightGBM.
 - Six neural networks: MLP, ResNet, TabNet, NODE, SAINT and VIME.
 - Four baseline algorithms: K-Nearest Neighbors (KNN), Logistic Regression, Decision Tree and Random Forest.
