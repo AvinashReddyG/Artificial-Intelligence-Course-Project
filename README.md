@@ -14,3 +14,4 @@ We utilize a simple feedforward network with **fully connected layers** and **Re
 We evaluate them using **accuracy** as our metric.
 After training the datasets, we compare their **performance**. 
 By plotting the accuracy for both neural networks and boosted trees across different datasets, we can identify patterns and draw conclusions on when one model outperforms the other.
+We also extract the metafeatures of the datasets to understand the features affecting the performance.
