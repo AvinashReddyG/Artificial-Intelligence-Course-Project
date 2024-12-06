@@ -22,6 +22,14 @@ After training the datasets, we compare their **performance**.
 By plotting the accuracy for both neural networks and boosted trees across different datasets, we can identify patterns and draw conclusions on when one model outperforms the other.
 We also extract the metafeatures of the datasets to understand the features affecting the performance.
 
+## Steps to reproduce the Code:
+
+- Open the file "Complete Code of all algotithms".
+- Upload the requirements.txt (this txt file is for "Complete Code of all algotithms.ipynb" file only) to the Google Colab or the directory where you have the python file.
+- Run the first cell shown which will install the libraries required to run the code:
+**!pip install --no-deps -r requirements.txt**
+- Proceed with running the rest of the code. 
+
 
 ## Reference
 ```bibtex
